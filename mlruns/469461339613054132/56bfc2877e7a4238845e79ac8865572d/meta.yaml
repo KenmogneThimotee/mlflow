@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/56bfc2877e7a4238845e79ac8865572d/artifacts
+end_time: 1685192140233
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: 56bfc2877e7a4238845e79ac8865572d
+run_name: casual-penguin-231
+run_uuid: 56bfc2877e7a4238845e79ac8865572d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685192140137
+status: 3
+tags: []
+user_id: thimotee

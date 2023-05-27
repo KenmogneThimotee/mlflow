@@ -1,0 +1,7 @@
+name: My Project
+
+conda_env: environment.yaml
+
+entry_points:
+  main:
+    command: "python train.py"

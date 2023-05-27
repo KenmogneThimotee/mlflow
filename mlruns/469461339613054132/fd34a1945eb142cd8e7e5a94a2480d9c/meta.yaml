@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/fd34a1945eb142cd8e7e5a94a2480d9c/artifacts
+end_time: 1685192739119
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: fd34a1945eb142cd8e7e5a94a2480d9c
+run_name: clean-snail-406
+run_uuid: fd34a1945eb142cd8e7e5a94a2480d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685192729082
+status: 3
+tags: []
+user_id: thimotee

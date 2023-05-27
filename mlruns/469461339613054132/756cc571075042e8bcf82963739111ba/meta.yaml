@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/756cc571075042e8bcf82963739111ba/artifacts
+end_time: 1685193544289
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: 756cc571075042e8bcf82963739111ba
+run_name: gentle-gull-261
+run_uuid: 756cc571075042e8bcf82963739111ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685193536706
+status: 3
+tags: []
+user_id: thimotee

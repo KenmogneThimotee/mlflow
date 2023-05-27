@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/364f1ec16fee4f7db6c2fb2e67d5aa2b/artifacts
+end_time: 1685192110054
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: 364f1ec16fee4f7db6c2fb2e67d5aa2b
+run_name: hilarious-wasp-400
+run_uuid: 364f1ec16fee4f7db6c2fb2e67d5aa2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685192109913
+status: 3
+tags: []
+user_id: thimotee

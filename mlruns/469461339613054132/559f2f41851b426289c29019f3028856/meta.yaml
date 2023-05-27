@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/559f2f41851b426289c29019f3028856/artifacts
+end_time: 1685194952602
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: 559f2f41851b426289c29019f3028856
+run_name: dapper-smelt-675
+run_uuid: 559f2f41851b426289c29019f3028856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685194943903
+status: 3
+tags: []
+user_id: thimotee

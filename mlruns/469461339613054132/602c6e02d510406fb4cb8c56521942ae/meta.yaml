@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/602c6e02d510406fb4cb8c56521942ae/artifacts
+end_time: 1685193501975
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: 602c6e02d510406fb4cb8c56521942ae
+run_name: popular-snipe-506
+run_uuid: 602c6e02d510406fb4cb8c56521942ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685193494382
+status: 4
+tags: []
+user_id: thimotee

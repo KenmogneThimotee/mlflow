@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/94485c756e6c4e8989e92fc654485499/artifacts
+end_time: 1685191848517
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: 94485c756e6c4e8989e92fc654485499
+run_name: luminous-auk-347
+run_uuid: 94485c756e6c4e8989e92fc654485499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685191848312
+status: 4
+tags: []
+user_id: thimotee

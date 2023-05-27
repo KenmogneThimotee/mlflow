@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/8a28adbb90954187b0f8694a0a594509/artifacts
+end_time: 1685194116922
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: 8a28adbb90954187b0f8694a0a594509
+run_name: caring-fly-825
+run_uuid: 8a28adbb90954187b0f8694a0a594509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685194108760
+status: 3
+tags: []
+user_id: thimotee

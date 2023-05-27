@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/b2eccc4346494291ba465bf1915b1ed7/artifacts
+end_time: 1685192694822
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: b2eccc4346494291ba465bf1915b1ed7
+run_name: zealous-robin-811
+run_uuid: b2eccc4346494291ba465bf1915b1ed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685192694616
+status: 4
+tags: []
+user_id: thimotee

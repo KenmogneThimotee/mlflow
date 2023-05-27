@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/9ed742521fd142108f9574b7b33147cd/artifacts
+end_time: 1685193731865
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: 9ed742521fd142108f9574b7b33147cd
+run_name: adorable-crane-993
+run_uuid: 9ed742521fd142108f9574b7b33147cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685193724087
+status: 4
+tags: []
+user_id: thimotee
