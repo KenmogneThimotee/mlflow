@@ -1,13 +1,11 @@
 import numpy as np
 import pandas as pd
 
-import seaborn as sns
 import matplotlib.pyplot as plt
 
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error
 from sklearn.metrics import mean_squared_error
-from sklearn.model_selection import GridSearchCV
 import mlflow
 import mlflow.sklearn
 from mlflow.models.signature import infer_signature
