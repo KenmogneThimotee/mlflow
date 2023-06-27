@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/124c21c3e864482fa7049a58f8592d39/artifacts
+end_time: 1685407601969
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: 124c21c3e864482fa7049a58f8592d39
+run_name: beautiful-ox-168
+run_uuid: 124c21c3e864482fa7049a58f8592d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685407592851
+status: 3
+tags: []
+user_id: thimotee

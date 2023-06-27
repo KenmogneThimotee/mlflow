@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/491449fd3faa4ef6aedf5d4b90f9f1f0/artifacts
+end_time: 1685406124850
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: 491449fd3faa4ef6aedf5d4b90f9f1f0
+run_name: wistful-grub-51
+run_uuid: 491449fd3faa4ef6aedf5d4b90f9f1f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685406109647
+status: 3
+tags: []
+user_id: thimotee

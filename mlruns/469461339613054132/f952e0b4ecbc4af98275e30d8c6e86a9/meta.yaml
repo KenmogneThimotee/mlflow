@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/f952e0b4ecbc4af98275e30d8c6e86a9/artifacts
+end_time: 1685407012770
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: f952e0b4ecbc4af98275e30d8c6e86a9
+run_name: magnificent-lark-741
+run_uuid: f952e0b4ecbc4af98275e30d8c6e86a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685407003657
+status: 3
+tags: []
+user_id: thimotee

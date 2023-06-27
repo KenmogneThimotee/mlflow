@@ -1,0 +1,27 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.3.2
+model_uuid: 40d4d2f350df4ac89aa79e9b665e13a2
+run_id: 491449fd3faa4ef6aedf5d4b90f9f1f0
+signature:
+  inputs: '[{"name": "CRIM", "type": "double"}, {"name": "ZN", "type": "double"},
+    {"name": "INDUS", "type": "double"}, {"name": "CHAS", "type": "long"}, {"name":
+    "NOX", "type": "double"}, {"name": "RM", "type": "double"}, {"name": "AGE", "type":
+    "double"}, {"name": "DIS", "type": "double"}, {"name": "RAD", "type": "long"},
+    {"name": "TAX", "type": "double"}, {"name": "PTRATIO", "type": "double"}, {"name":
+    "B", "type": "double"}, {"name": "LSTAT", "type": "double"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+utc_time_created: '2023-05-30 00:21:49.745359'

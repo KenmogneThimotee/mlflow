@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/05de41e59857416bb4b16a3ca05be992/artifacts
+end_time: 1685406096540
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: 05de41e59857416bb4b16a3ca05be992
+run_name: skittish-ant-395
+run_uuid: 05de41e59857416bb4b16a3ca05be992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685406081673
+status: 3
+tags: []
+user_id: thimotee

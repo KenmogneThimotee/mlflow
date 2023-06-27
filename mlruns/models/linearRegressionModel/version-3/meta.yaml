@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1685406096632
+current_stage: None
+description: null
+last_updated_timestamp: 1685406096632
+name: linearRegressionModel
+run_id: 05de41e59857416bb4b16a3ca05be992
+run_link: null
+source: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/05de41e59857416bb4b16a3ca05be992/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 3

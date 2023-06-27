@@ -26,18 +26,17 @@ if __name__ == "__main__":
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.8, test_size=0.2, random_state=0)
 
-    model = LinearRegression(fit_intercept=False)
+    mlflow.sklearn.autolog()
+
+    model = LinearRegression()
 
     with mlflow.start_run() as run:
         model.fit(X_train, y_train)
         
-        mlflow.log_param("Intercept", model.intercept_)
-        mlflow.log_param("Coefficient", model.coef_)
+        # mlflow.log_param("Intercept", model.intercept_)
+        # mlflow.log_param("Coefficient", model.coef_)
         
         predictions = model.predict(X_test)
-        signature = infer_signature(X_test, predictions)
-
-        # mlflow.log_param("Prediction Test set", predictions)
         
         mae = mean_absolute_error(y_test, predictions)
         mlflow.log_metric("mae", mae)
@@ -51,6 +50,7 @@ if __name__ == "__main__":
         rmsle = np.log(np.sqrt(mean_squared_error(y_test, predictions)))
         mlflow.log_metric("rmsle", rmsle)
         
+        signature = infer_signature(X_test, predictions)
         mlflow.sklearn.log_model(model, artifact_path="sklearn-model", signature=signature)
 
         fig, ax = plt.subplots()

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/b0e24a47977949ea88d30ed4192f967a/artifacts
+end_time: 1685406149264
+entry_point_name: ''
+experiment_id: '469461339613054132'
+lifecycle_stage: active
+run_id: b0e24a47977949ea88d30ed4192f967a
+run_name: stylish-shad-886
+run_uuid: b0e24a47977949ea88d30ed4192f967a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685406135056
+status: 3
+tags: []
+user_id: thimotee

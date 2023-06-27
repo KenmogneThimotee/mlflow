@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1685219188990
+current_stage: None
+description: null
+last_updated_timestamp: 1685219188990
+name: model
+run_id: 027b83414a9c4bda8c6c2826e2ca015d
+run_link: null
+source: file:///home/thimotee/work/mlflow/mlruns/469461339613054132/027b83414a9c4bda8c6c2826e2ca015d/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 3
